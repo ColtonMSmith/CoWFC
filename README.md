@@ -11,7 +11,7 @@ Please open pull requests for the dev branch.
 # How to Build
 First, you will need to be running on Ubuntu. Otherwise the [setup script](https://github.com/kyle95wm/cowfc_installer) will not run. Please run the following command below to get started:
 
-`mkdir /var/www ; cd /var/www && wget https://raw.githubusercontent.com/kyle95wm/cowfc_installer/master/cowfc.sh && chmod +x cowfc.sh && ./cowfc.sh`
+`mkdir /var/www ; cd /var/www && wget https://raw.githubusercontent.com/ColtonMSmith/cowfc_installer/master/cowfc.sh && chmod +x cowfc.sh && ./cowfc.sh`
 
 If you're on AWS, you can run this instead:
 
